@@ -1,3 +1,7 @@
 第二次新增的一行
 
 这是我手工创建的git测试文件
+
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
