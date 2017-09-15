@@ -10,3 +10,6 @@ Git has a mutable index called stage.
 
 new
 new
+
+
+A
